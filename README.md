@@ -1,2 +1,2 @@
 # SimonDice
-Juego para practicas Fundamentos de JS
+Juego para practicar Fundamentos de JS
